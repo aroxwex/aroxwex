@@ -1,18 +1,12 @@
-<h2>arox was here <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+<h2>
+  arox was here
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="22px" style="vertical-align: middle;">
+</h2>
 
-<img width="50%" align="right" src="https://github-stats-extended.vercel.app/api?username=aroxwex&show_icons=true&hide_title=true&theme=dark">
+<img width="50%" align="right" src="https://github-stats-extended.vercel.app/api?username=aroxwex&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=00000000">
 
-<!--
-**aroxwex/aroxwex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="both">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=aroxwex&style=flat-square&color=2b2b2b" alt="Profile views"/>
+</p>
