@@ -15,7 +15,6 @@ Building things, experimenting with code and creating tools that make a differen
   <img src="https://img.shields.io/badge/C%23-30363D?style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-30363D?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square" />
 </p>
 
 ### GitHub Statistics
