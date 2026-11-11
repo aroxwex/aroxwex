@@ -17,23 +17,16 @@ Building things, experimenting with code and creating tools that make a differen
   <img src="https://img.shields.io/badge/Git-30363D?style=flat-square" />
 </p>
 
-### GitHub Statistics
-
-<p align="center">
-  <img width="42%" src="https://github-stats-extended.vercel.app/api?username=aroxwex&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aroxwex&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=aroxwex&theme=github-dark-blue&hide_border=true" />
-</p>
-
 ---
 
-<p align="center">
+<p align="right">
+  <img width="50%" src="https://github-stats-extended.vercel.app/api?username=aroxwex&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+</p>
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=aroxwex&style=flat-square&color=30363D&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center">
+<p align="right">
   <sub>See you around. ⭐</sub>
 </p>
